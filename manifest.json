@@ -1,0 +1,90 @@
+{
+  "name": "QRocket",
+  "short_name": "QRocket",
+  "description": "QRocket makes scanning and generating QR codes fast, easy, and stylish. Create links, contacts, WiFi codes, and more—instantly",
+  "icons": [
+    {
+      "src": "https://sureshapps.github.io/QRocket/QRocket.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "https://sureshapps.github.io/QRocket/QRocket.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "https://sureshapps.github.io/QRocket/QRocket.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "https://sureshapps.github.io/QRocket/QRocket.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "https://sureshapps.github.io/QRocket/QRocket.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://sureshapps.github.io/QRocket/QRocket.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+
+    {
+      "src": "https://sureshapps.github.io/QRocket/QRocket.png",
+      "type": "image/png",
+      "sizes": "48x48",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://sureshapps.github.io/QRocket/QRocket.png",
+      "type": "image/png",
+      "sizes": "72x72",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://sureshapps.github.io/QRocket/QRocket.png",
+      "type": "image/png",
+      "sizes": "96x96",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://sureshapps.github.io/QRocket/QRocket.png",
+      "type": "image/png",
+      "sizes": "144x144",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://sureshapps.github.io/QRocket/QRocket.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://sureshapps.github.io/QRocket/QRocket.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://sureshapps.github.io/QRocket/QRocket.png",
+      "type": "image/png",
+      "sizes": "1080x1920"
+    },
+    {
+      "src": "https://sureshapps.github.io/QRocket/QRocket.png",
+      "type": "image/png",
+      "sizes": "360x640"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#272727",
+  "theme_color": "#ff7700"
+}
